@@ -80,9 +80,9 @@ Recent Works
 
 .work__item
 All
-Web
-Movil
-Design
+CAD
+Hardware
+Volunteer
 
 .work__title
 Web design
@@ -140,7 +140,7 @@ https://m.me/bedimcode
 
 ========== FOOTER ==========
 .footer__title
-Matt
+Matt Nejedlo
 
 .footer__link
 About
