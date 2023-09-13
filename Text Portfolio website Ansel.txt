@@ -3,10 +3,10 @@
 Hello, I'm
 
 .home__name
-Ansel Klee
+Matt Nejedlo
 
 .home__education
-Frontend Developer
+Mechanical Engineer
 
 .home__social-link
 https://www.linkedin.com/
@@ -23,18 +23,18 @@ About Me
 
 .about__title | .about__subtitle
 Experience
-8 Years Working
+B.S. Mechanical Engineering Junior
 
 Completed
-48 + Projects
+2 Co-Ops
 
 Support
 Online 24/7
 
 .about__description
-Frontend developer, I create web pages with UI / UX user interface, 
-I have years of experience and many clients are happy 
-with the projects carried out.
+Growing Mechanical Engineer, 
+I'm leveraging my passion for aviation 
+and automobiles to create meaningful change in the world.
 
 ========== SKILLS ==========	
 .section__subtitle | .section__title
@@ -42,42 +42,23 @@ My abilities
 My Experience
 
 .skills__title
-Frontend developer
-Backend Developer
+Pilot
+Manufacturing Engineer
 
 .skills__name | .skills__level
-HTML
+Solidworks
 Basic
 
-CSS
-Advanced
-
-JavaScript
-Intermediate
-
-Bootstrap
-Intermediate
-
-Git
-Intermediate
-
-React
-Intermediate
-
-PHP
-Intermediate
-
-Node Js
+Siemens NX
 Basic
 
 Python
-Intermediate
+Light
 
-MySQL
-Intermediate
+Leadership
+Growing
 
-Firebase
-Intermediate
+
 
 ========== SERVICES ==========
 .section__subtitle | .section__title
@@ -85,26 +66,11 @@ My Services
 What I Offer
 
 .services__title
-Product <br> Designer
-
-Ui/Ux <br> Designer
-
-Visual <br> Designer
+Product <br> Innovative solutions to complex problems
 
 .services__modal-description
-Service with more than 3 years of experience. 
-Providing quality work to clients and companies.
-
-.services__modal-info
-I develop the user interface.
-
-Web page development.
-
-I create ux element interactions.
-
-I position your company brand.
-
-Design and mockups of products for companies.
+Service with 3 years of experience 
+Providing quality work to companies.
 
 
 ========== WORK  ==========
@@ -158,16 +124,15 @@ Write me your project
 
 .contact__card-title | .contact__card-data
 Email
-user@gmail.com
+Hello@MattNejedlo.com
 
 Whatsapp
-999-888-777
+(920) 918-9422
 
-Messenger
-user.fb123
+
 
 .contact__button
-mailto:examplemail@correo.com
+mailto:Hello@MattNejedlo.com
 
 https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
 
@@ -175,7 +140,7 @@ https://m.me/bedimcode
 
 ========== FOOTER ==========
 .footer__title
-Ansel
+Matt
 
 .footer__link
 About
